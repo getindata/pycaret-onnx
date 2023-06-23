@@ -6,4 +6,6 @@ This is an example of using PyCaret to train a machine learning model and then c
 ## Setup
 To run this notebook locally, creating a virtual environment is recommended. 
 Then, to load all dependencies: 
+```
 $ conda create --name <env> --file requirements.txt
+```
